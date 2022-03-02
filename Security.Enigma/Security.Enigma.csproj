@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>Company.Security.Enigma</PackageId>
+    <Company>Company Name</Company>
+    <Authors>Ali Dadali</Authors>
+    <Description>This package include encrypton and decrypton methods to keep confidental your credential informations</Description>
+    <PackageIcon>cyber-security.png</PackageIcon>
+    <NeutralLanguage>en</NeutralLanguage>
+    <PackageTags>security, encrypt, decrypt, encryption, decryption</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\icons\cyber-security.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

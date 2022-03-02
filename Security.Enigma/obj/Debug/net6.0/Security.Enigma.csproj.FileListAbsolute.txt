@@ -1,0 +1,12 @@
+C:\Users\alifd\source\repos\Security.Enigma\Security.Enigma\bin\Debug\net6.0\Security.Enigma.deps.json
+C:\Users\alifd\source\repos\Security.Enigma\Security.Enigma\bin\Debug\net6.0\Security.Enigma.dll
+C:\Users\alifd\source\repos\Security.Enigma\Security.Enigma\bin\Debug\net6.0\Security.Enigma.pdb
+C:\Users\alifd\source\repos\Security.Enigma\Security.Enigma\obj\Debug\net6.0\Security.Enigma.csproj.AssemblyReference.cache
+C:\Users\alifd\source\repos\Security.Enigma\Security.Enigma\obj\Debug\net6.0\Security.Enigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alifd\source\repos\Security.Enigma\Security.Enigma\obj\Debug\net6.0\Security.Enigma.AssemblyInfoInputs.cache
+C:\Users\alifd\source\repos\Security.Enigma\Security.Enigma\obj\Debug\net6.0\Security.Enigma.AssemblyInfo.cs
+C:\Users\alifd\source\repos\Security.Enigma\Security.Enigma\obj\Debug\net6.0\Security.Enigma.csproj.CoreCompileInputs.cache
+C:\Users\alifd\source\repos\Security.Enigma\Security.Enigma\obj\Debug\net6.0\Security.Enigma.dll
+C:\Users\alifd\source\repos\Security.Enigma\Security.Enigma\obj\Debug\net6.0\refint\Security.Enigma.dll
+C:\Users\alifd\source\repos\Security.Enigma\Security.Enigma\obj\Debug\net6.0\Security.Enigma.pdb
+C:\Users\alifd\source\repos\Security.Enigma\Security.Enigma\obj\Debug\net6.0\ref\Security.Enigma.dll
